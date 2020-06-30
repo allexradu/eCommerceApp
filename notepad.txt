@@ -1,0 +1,3 @@
+for hanged push to origin and problems with internet:
+
+git config --global core.askpass "git-gui--askpass"
